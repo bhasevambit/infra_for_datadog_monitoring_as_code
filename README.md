@@ -7,7 +7,7 @@
 `./AWS_All_Resources_Activation.sh`
 
 ### Deactivation
-`./AWS_All_Resources_Activation.sh`
+`./AWS_All_Resources_Deactivation.sh`
 
 ## Note
 
